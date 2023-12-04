@@ -1,0 +1,25 @@
+.sample_1 {
+  padding: 10px 10px 10px 10px; 
+}
+
+.data_1 {
+  font-weight: 700;
+}
+
+.data_2 {
+  font-size: 16px;
+}
+
+.icons_style {
+  margin-top: 20px;
+  margin-left: 20px;
+}
+
+.bg_color {
+  min-height: 100vh;
+  background: #ECEFF1;
+  background: linear-gradient(158deg, rgb(224, 224, 224) 0%, rrgb(233, 237, 254) 100%);
+}
+
+
+
