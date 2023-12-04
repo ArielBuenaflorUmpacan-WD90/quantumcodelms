@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/quantumcodelms/static/css/main.0fa2176f.css",
+    "main.js": "/quantumcodelms/static/js/main.740fe8c8.js",
+    "static/js/787.65e36f3a.chunk.js": "/quantumcodelms/static/js/787.65e36f3a.chunk.js",
+    "index.html": "/quantumcodelms/index.html",
+    "main.0fa2176f.css.map": "/quantumcodelms/static/css/main.0fa2176f.css.map",
+    "main.740fe8c8.js.map": "/quantumcodelms/static/js/main.740fe8c8.js.map",
+    "787.65e36f3a.chunk.js.map": "/quantumcodelms/static/js/787.65e36f3a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0fa2176f.css",
+    "static/js/main.740fe8c8.js"
+  ]
+}
